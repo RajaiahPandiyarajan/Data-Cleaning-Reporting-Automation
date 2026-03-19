@@ -1,0 +1,7 @@
+CustomerID,Name,Age,City,PurchaseAmount
+101,Ravi,25,Chennai,5000
+102,Sita,,Mumbai,7000
+103,Arun,30,Chennai,5000
+104,Ravi,25,Chennai,5000
+105,Meena,28,,8000
+106,Kiran,35,Delhi,
